@@ -1,0 +1,118 @@
+Search_Query,Recipe_id,title,usedIngredientCount,missedIngredientCount,ingredients_id,ingredients_name,aisle,MissedorUsed,amount,unit
+apple,633547,Baked Cinnamon Apple Slices,1,2,2010,cinnamon,Spices and Seasonings,Missed,1.5,tablespoons
+apple,633547,Baked Cinnamon Apple Slices,1,2,9299,raisins,Dried Fruits;Produce;Baking,Missed,0.5,cup
+apple,633547,Baked Cinnamon Apple Slices,1,2,9003,apples,Produce,Used,4.0,
+apple,662665,Swiss Bircher Muesli,1,3,1077,milk,"Milk, Eggs, Other Dairy",Missed,0.5,cup
+apple,662665,Swiss Bircher Muesli,1,3,42184,muesli,Cereal,Missed,0.5,cup
+apple,662665,Swiss Bircher Muesli,1,3,43261,skim vanilla yoghurt,"Milk, Eggs, Other Dairy",Missed,3.0,tablespoons
+apple,662665,Swiss Bircher Muesli,1,3,9003,apple,Produce,Used,1.0,
+mango,653145,No Churn Mango Ice Cream,1,3,1011053,double cream,"Milk, Eggs, Other Dairy",Missed,500.0,ml
+mango,653145,No Churn Mango Ice Cream,1,3,9436,mango nectar,Beverages,Missed,0.75,cup
+mango,653145,No Churn Mango Ice Cream,1,3,9160,lime juice,Produce,Missed,1.0,tablespoon
+mango,653145,No Churn Mango Ice Cream,1,3,9176,mango,Produce,Used,410.0,g
+mango,663858,Tropical Ice Pops,1,4,99001,coconut milk beverage,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,99009,light coconut milk,Canned and Jarred,Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,19911,maple syrup,Cereal,Missed,3.5,Tbs
+mango,663858,Tropical Ice Pops,1,4,9266,pineapple,Produce,Missed,0.75,cup
+mango,663858,Tropical Ice Pops,1,4,9176,mango,Produce,Used,1.0,cup
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,19296,honey,"Nut butters, Jams, and Honey",Missed,1.0,tablespoon
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9302,raspberries,Produce,Missed,1.0,cup
+lemon,800780,Raspberry Lemonade Ice Pops- Easy & Refreshing,1,2,9150,lemons,Produce,Used,2.0,
+lemon,649643,Lemon Glaze For Cakes,1,2,1019016,juice,Beverages,Missed,1.0,serving
+lemon,649643,Lemon Glaze For Cakes,1,2,9156,lemon peel,Produce,Missed,1.0,teaspoon
+lemon,649643,Lemon Glaze For Cakes,1,2,9150,lemon,Produce,Used,2.0,tablespoons
+peach,655098,Peach Coconut Ice Cream,1,2,12118,full-fat coconut milk,"Canned and Jarred;Milk, Eggs, Other Dairy",Missed,27.2,ounces
+peach,655098,Peach Coconut Ice Cream,1,2,1049,half & half,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+peach,655098,Peach Coconut Ice Cream,1,2,9236,peaches,Produce,Used,6.0,large
+peach,649381,Lazy Cobbler,1,3,1001,butter,"Milk, Eggs, Other Dairy",Missed,8.0,servings
+peach,649381,Lazy Cobbler,1,3,2010,cinnamon,Spices and Seasonings,Missed,0.5,teaspoon
+peach,649381,Lazy Cobbler,1,3,18137,white cake mix,Baking,Missed,1.0,
+peach,649381,Lazy Cobbler,1,3,9236,peaches,Produce,Used,1.0,large can
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,6150,barbecue sauce,Condiments,Missed,12.0,oz
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,5062,chicken breasts,Meat,Missed,1.0,lbs
+bread,659316,Saucy Shredded Barbecue Chicken,1,2,18350,hamburger buns,Bakery/Bread,Used,4.0,
+bread,658140,Reeses Peanut Butter Chocolate Chip Cookies,1,2,10019146,chocolate chips,Baking,Missed,1.0,largebanana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,19081,chocolate,Sweet Snacks,Missed,1.0,
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,16098,peanut butter,"Nut butters, Jams, and Honey",Missed,1.0,tbsp
+banana,665469,Xocai Healthy Chocolate Peanut Butter Bannana Dip,1,2,9040,bananas,Produce,Used,1.0,
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9206,orange juice,Beverages,Missed,0.5,cup
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,2006,cardamom powder,Spices and Seasonings,Missed,1.0,pinch
+banana,650485,Luscious Orange Cardamom Smoothie,1,2,9040,bananas,Produce,Used,2.0,
+mango,653145,No Churn Mango Ice Cream,1,3,1011053,double cream,"Milk, Eggs, Other Dairy",Missed,500.0,ml
+mango,653145,No Churn Mango Ice Cream,1,3,9436,mango nectar,Beverages,Missed,0.75,cup
+mango,653145,No Churn Mango Ice Cream,1,3,9160,lime juice,Produce,Missed,1.0,tablespoon
+mango,653145,No Churn Mango Ice Cream,1,3,9176,mango,Produce,Used,410.0,g
+mango,663858,Tropical Ice Pops,1,4,99001,coconut milk beverage,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,99009,light coconut milk,Canned and Jarred,Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,19911,maple syrup,Cereal,Missed,3.5,Tbs
+mango,663858,Tropical Ice Pops,1,4,9266,pineapple,Produce,Missed,0.75,cup
+mango,663858,Tropical Ice Pops,1,4,9176,mango,Produce,Used,1.0,cup
+mango,653145,No Churn Mango Ice Cream,1,3,1011053,double cream,"Milk, Eggs, Other Dairy",Missed,500.0,ml
+mango,653145,No Churn Mango Ice Cream,1,3,9436,mango nectar,Beverages,Missed,0.75,cup
+mango,653145,No Churn Mango Ice Cream,1,3,9160,lime juice,Produce,Missed,1.0,tablespoon
+mango,653145,No Churn Mango Ice Cream,1,3,9176,mango,Produce,Used,410.0,g
+mango,663858,Tropical Ice Pops,1,4,99001,coconut milk beverage,"Milk, Eggs, Other Dairy",Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,99009,light coconut milk,Canned and Jarred,Missed,1.0,cup
+mango,663858,Tropical Ice Pops,1,4,19911,maple syrup,Cereal,Missed,3.5,Tbs
+mango,663858,Tropical Ice Pops,1,4,9266,pineapple,Produce,Missed,0.75,cup
+mango,663858,Tropical Ice Pops,1,4,9176,mango,Produce,Used,1.0,cup
+tomato,645555,Green Tomato Salad,1,2,10211111,sumac,Ethnic Foods;Spices and Seasonings,Missed,1.0,teaspoon
+tomato,645555,Green Tomato Salad,1,2,2064,mint leaves,Produce;Spices and Seasonings,Missed,1.0,handful
+tomato,645555,Green Tomato Salad,1,2,11527,green tomato,Produce,Used,1.0,large
+tomato,1674265,Easy Tomato Soup,1,3,1001,butter,"Milk, Eggs, Other Dairy",Missed,4.0,tablespoons
+tomato,1674265,Easy Tomato Soup,1,3,11282,onion,Produce,Missed,1.0,
+tomato,1674265,Easy Tomato Soup,1,3,6615,vegetable broth,Canned and Jarred,Missed,1.5,cups
+tomato,1674265,Easy Tomato Soup,1,3,10011531,tomatoes,Canned and Jarred,Used,28.0,ounces
+tomato,645555,Green Tomato Salad,1,2,10211111,sumac,Ethnic Foods;Spices and Seasonings,Missed,1.0,teaspoon
+tomato,645555,Green Tomato Salad,1,2,2064,mint leaves,Produce;Spices and Seasonings,Missed,1.0,handful
+tomato,645555,Green Tomato Salad,1,2,11527,green tomato,Produce,Used,1.0,large
+tomato,1674265,Easy Tomato Soup,1,3,1001,butter,"Milk, Eggs, Other Dairy",Missed,4.0,tablespoons
+tomato,1674265,Easy Tomato Soup,1,3,11282,onion,Produce,Missed,1.0,
+tomato,1674265,Easy Tomato Soup,1,3,6615,vegetable broth,Canned and Jarred,Missed,1.5,cups
+tomato,1674265,Easy Tomato Soup,1,3,10011531,tomatoes,Canned and Jarred,Used,28.0,ounces
+coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,2050,vanilla extract,Baking,Missed,2.0,teaspoons
+coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,1095,sweetened condensed milk,Baking,Missed,14.0,oz
+coconut,639779,Coconut Macaroons With Chocolate Drizzle,1,2,12109,sweetened coconut,Baking,Used,5.5,cups
+coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,1015062,chicken tenders,Meat,Missed,1.0,pound
+coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,1124,egg whites,"Milk, Eggs, Other Dairy",Missed,2.0,
+coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,99025,whole wheat bread crumbs,Pasta and Rice,Missed,0.5,cup
+coconut,639722,Coconut and Whole Wheat Chicken Tenders,1,3,12108,unsweetened coconut,Baking,Used,0.5,cup
